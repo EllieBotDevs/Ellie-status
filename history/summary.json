@@ -40,17 +40,19 @@
     "url": "https://status.emotionchild.com",
     "icon": "https://favicons.githubusercontent.com/status.emotionchild.com",
     "slug": "ellie-status-page",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 712,
-    "timeDay": 712,
-    "timeWeek": 712,
-    "timeMonth": 712,
-    "timeYear": 712,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 3244,
+    "timeDay": 3244,
+    "timeWeek": 3244,
+    "timeMonth": 3244,
+    "timeYear": 3244,
+    "dailyMinutesDown": {
+      "2021-10-26": 0
+    }
   }
 ]
