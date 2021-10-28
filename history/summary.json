@@ -4,43 +4,47 @@
     "url": "https://elliebot.emotionchild.com",
     "icon": "https://favicons.githubusercontent.com/elliebot.emotionchild.com",
     "slug": "ellie-bot-website",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.96%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 429,
     "timeDay": 467,
     "timeWeek": 429,
     "timeMonth": 429,
     "timeYear": 429,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-28": 1
+    }
   },
   {
     "name": "Ellie Bot Devs Site",
     "url": "https://elliebotdevs.emotionchild.com",
     "icon": "https://favicons.githubusercontent.com/elliebotdevs.emotionchild.com",
     "slug": "ellie-bot-devs-site",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 377,
     "timeDay": 332,
     "timeWeek": 377,
     "timeMonth": 377,
     "timeYear": 377,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-28": 1
+    }
   },
   {
     "name": "Ellie Status Page",
     "url": "https://status.emotionchild.com",
     "icon": "https://favicons.githubusercontent.com/status.emotionchild.com",
     "slug": "ellie-status-page",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -51,6 +55,8 @@
     "timeWeek": 1742,
     "timeMonth": 1742,
     "timeYear": 1742,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-28": 0
+    }
   }
 ]
