@@ -48,7 +48,7 @@
     "url": "https://status.emotionchild.com",
     "icon": "https://favicons.githubusercontent.com/status.emotionchild.com",
     "slug": "ellie-status-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -60,6 +60,7 @@
     "timeMonth": 203,
     "timeYear": 342,
     "dailyMinutesDown": {
+      "2022-01-03": 0,
       "2021-11-16": 37,
       "2021-11-09": 24,
       "2021-10-28": 230
