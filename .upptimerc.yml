@@ -22,7 +22,7 @@ status-website:
   favicon: https://cdn.discordapp.com/avatars/608119997713350679/d71c7cbb2ba132867367ed47261aea6d.png
   name: Ellie Status
   introTitle: "**Ellie Status Page**"
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/EmotionChild/Ellie-status).
+  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/EllieBotDevs/Ellie-status).
   navbar:
     - title: Status
       href: /
