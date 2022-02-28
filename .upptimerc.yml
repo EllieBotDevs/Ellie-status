@@ -3,27 +3,37 @@ owner: EllieBotDevs # Your GitHub organization or username, where this repositor
 repo: Ellie-status # The name of this repository
 
 sites:
-  - name: Ellie Bot Website
-    url: https://elliebot.emotionchild.com
-  - name: Ellie Bot Devs Site
-    url: https://elliebotdevs.emotionchild.com
-  - name: Ellie Status Page
-    url: https://status.emotionchild.com
+  - name: EllieBotDevs site
+    url: https://devs.elliebot.net
+  - name: Ellie Command site
+    url: https://commands.elliebot.net
+  - name: Status site
+    url: https://status.elliebot.net
+  - name: Ellie site
+    url: https://www.elliebot.net
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: demo.upptime.js.org
-  baseUrl: /Ellie-status
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  cname: status.elliebot.net
+  # baseUrl: /Ellie-status
+  theme: night
+  logoUrl: https://cdn.discordapp.com/avatars/608119997713350679/d71c7cbb2ba132867367ed47261aea6d.png
+  favicon: https://cdn.discordapp.com/avatars/608119997713350679/d71c7cbb2ba132867367ed47261aea6d.png
   name: Ellie Status
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a status page which uses **real-time** data from our [GitHub repository](https://github.com/EllieBotDevs/Ellie-status). No server required — just GitHub Actions, Issues, and Pages.
+  introTitle: "**Ellie Status Page**"
+  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/EmotionChild/Ellie-status).
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+      
+i18n:
+  footer: This page is [open source]($REPO) for The Ellie Discord Bot Project by EmotionChild and the Ellie Bot Team
+  
+assignees:
+  - EmotionChild
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
