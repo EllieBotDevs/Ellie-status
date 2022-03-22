@@ -40,10 +40,10 @@
     "url": "https://status.elliebot.net",
     "icon": "https://favicons.githubusercontent.com/status.elliebot.net",
     "slug": "status-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 215,
@@ -51,16 +51,18 @@
     "timeWeek": 241,
     "timeMonth": 215,
     "timeYear": 215,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-22": 1
+    }
   },
   {
     "name": "Ellie site",
     "url": "https://www.elliebot.net",
     "icon": "https://favicons.githubusercontent.com/www.elliebot.net",
     "slug": "ellie-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,6 +71,8 @@
     "timeWeek": 474,
     "timeMonth": 376,
     "timeYear": 376,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-22": 0
+    }
   }
 ]
