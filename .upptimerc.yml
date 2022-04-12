@@ -11,6 +11,10 @@ sites:
     url: https://status.elliebot.net
   - name: Ellie site
     url: https://www.elliebot.net
+  - name: Ellie Embed Visualizer
+    url: https://eb.elliebot.net
+  - name: Ellie Docs
+    url: https://docs.elliebot.net
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
