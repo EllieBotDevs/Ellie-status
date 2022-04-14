@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
-    "time": 416,
-    "timeDay": 302,
-    "timeWeek": 269,
-    "timeMonth": 339,
-    "timeYear": 416,
+    "time": 415,
+    "timeDay": 201,
+    "timeWeek": 265,
+    "timeMonth": 337,
+    "timeYear": 415,
     "dailyMinutesDown": {
       "2022-03-29": 27
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.96%",
-    "time": 319,
-    "timeDay": 237,
-    "timeWeek": 242,
+    "time": 317,
+    "timeDay": 254,
+    "timeWeek": 255,
     "timeMonth": 325,
-    "timeYear": 319,
+    "timeYear": 317,
     "dailyMinutesDown": {
       "2022-03-29": 26
     }
@@ -45,16 +45,16 @@
     "icon": "https://favicons.githubusercontent.com/status.elliebot.net",
     "slug": "status-site",
     "status": "up",
-    "uptime": "99.92%",
+    "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
-    "uptimeYear": "99.92%",
-    "time": 187,
-    "timeDay": 155,
-    "timeWeek": 150,
+    "uptimeYear": "99.93%",
+    "time": 185,
+    "timeDay": 92,
+    "timeWeek": 140,
     "timeMonth": 177,
-    "timeYear": 187,
+    "timeYear": 185,
     "dailyMinutesDown": {
       "2022-03-29": 26,
       "2022-03-22": 23
@@ -71,11 +71,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
-    "time": 336,
-    "timeDay": 238,
-    "timeWeek": 255,
-    "timeMonth": 336,
-    "timeYear": 336,
+    "time": 333,
+    "timeDay": 206,
+    "timeWeek": 253,
+    "timeMonth": 334,
+    "timeYear": 333,
     "dailyMinutesDown": {
       "2022-03-22": 22
     }
@@ -91,11 +91,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 464,
-    "timeDay": 464,
-    "timeWeek": 464,
-    "timeMonth": 464,
-    "timeYear": 464,
+    "time": 368,
+    "timeDay": 176,
+    "timeWeek": 368,
+    "timeMonth": 368,
+    "timeYear": 368,
     "dailyMinutesDown": {}
   },
   {
@@ -109,11 +109,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 761,
-    "timeDay": 761,
-    "timeWeek": 761,
-    "timeMonth": 761,
-    "timeYear": 761,
+    "time": 567,
+    "timeDay": 181,
+    "timeWeek": 567,
+    "timeMonth": 567,
+    "timeYear": 567,
     "dailyMinutesDown": {}
   }
 ]
