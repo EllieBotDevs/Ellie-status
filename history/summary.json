@@ -4,11 +4,11 @@
     "url": "https://devs.elliebot.net",
     "icon": "https://favicons.githubusercontent.com/devs.elliebot.net",
     "slug": "ellie-bot-devs-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
     "time": 408,
     "timeDay": 296,
@@ -16,6 +16,7 @@
     "timeMonth": 290,
     "timeYear": 408,
     "dailyMinutesDown": {
+      "2022-04-25": 2,
       "2022-03-29": 27
     }
   },
@@ -24,10 +25,10 @@
     "url": "https://commands.elliebot.net",
     "icon": "https://favicons.githubusercontent.com/commands.elliebot.net",
     "slug": "ellie-command-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.97%",
     "time": 317,
@@ -36,6 +37,7 @@
     "timeMonth": 290,
     "timeYear": 317,
     "dailyMinutesDown": {
+      "2022-04-25": 2,
       "2022-03-29": 26
     }
   },
@@ -44,10 +46,10 @@
     "url": "https://status.elliebot.net",
     "icon": "https://favicons.githubusercontent.com/status.elliebot.net",
     "slug": "status-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
     "time": 179,
@@ -56,6 +58,7 @@
     "timeMonth": 150,
     "timeYear": 179,
     "dailyMinutesDown": {
+      "2022-04-25": 1,
       "2022-03-29": 26,
       "2022-03-22": 23
     }
@@ -65,10 +68,10 @@
     "url": "https://www.elliebot.net",
     "icon": "https://favicons.githubusercontent.com/www.elliebot.net",
     "slug": "ellie-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 326,
@@ -77,6 +80,7 @@
     "timeMonth": 287,
     "timeYear": 326,
     "dailyMinutesDown": {
+      "2022-04-25": 1,
       "2022-03-22": 22
     }
   },
@@ -85,9 +89,9 @@
     "url": "https://eb.elliebot.net",
     "icon": "https://favicons.githubusercontent.com/eb.elliebot.net",
     "slug": "ellie-embed-visualizer",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.82%",
@@ -97,6 +101,7 @@
     "timeMonth": 351,
     "timeYear": 351,
     "dailyMinutesDown": {
+      "2022-04-25": 0,
       "2022-04-14": 32
     }
   },
